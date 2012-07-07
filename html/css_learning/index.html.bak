@@ -1,10 +1,12 @@
-<html>
+<!DOCTYPE html1 PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+											 "http://www.w3org/TR/xhtml11/DTD/xhtml11-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang ="en" xml:lang = "en">
 	<head>
 		<title>Derrick Jin's test site</title>
 	</head>		
 		
 	<body>
 		<h1>Welcome to Derrick Jin's test site!</h1>
-		<p></p>
+		<p>this is a test site for learning html css and so on!</p>
 	</body>
 </html>
