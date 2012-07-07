@@ -1,0 +1,14 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="3">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="872" startPos="959" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\index.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="448" startPos="483" endPos="483" selMode="0" lang="CSS" encoding="-1" filename="E:\learning\html\css_learning\css\basic.css" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="824" startPos="774" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\python\python.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="752" startPos="461" endPos="461" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\template\xhtml1.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1600" startPos="683" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\C++\C++.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="924" startPos="857" endPos="0" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\html\html.html" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="884" startPos="411" endPos="411" selMode="0" lang="HTML" encoding="-1" filename="E:\learning\html\css_learning\JavaScript\JavaScript.html" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
