@@ -1,0 +1,23 @@
+
+
+body{
+	font-family: sans-serif;
+	color:green;
+}
+
+h1{
+	font-family:		Arial Black;	
+	border-bottom: 2px solid purple;
+}
+
+h2{
+	font-size:			20;
+}
+
+
+p{
+	color:				black;
+	background-color:	gray;	
+	font-size:			18;
+	font-weight:		bold;
+}
