@@ -1,0 +1,34 @@
+body{
+	font-family:		Verdana,Arial black,sans-serif;
+	font-size:			medium;
+	
+	color:				green;	
+	background-color:	#66ac66
+}
+
+h1{
+	border-bottom: 2px solid purple;
+}
+
+
+p{
+	color:				black;
+	background-color:	gray;	
+	/*font-weight:		bold; */
+}
+a.id_mark{
+	text-decoration: 	None;
+	color:				green;
+}
+
+a{
+	text-decoration: 	None;
+	color:				#2020cc;
+}
+
+em{
+	text-decoration: 	underline;
+	font-style: 		italic;
+	font-weight:		bold;
+	font-size:			125%;
+}

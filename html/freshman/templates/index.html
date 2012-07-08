@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns = "http://www.w3.org/1999/xhtml" lang ="en" xml:lang = "en">
+	<head>
+		<meta http-equiv = "Content-Type" content = "text/html; charset = GB2312" />
+		<title>{title} resource</title>
+		<link type = "text/css" rel = "stylesheet" href = "{css}"/>
+	</head>		
+		
+	<body>
+		<h1>{title} usefull web</h1>
+		
+		{link_list}
+		
+		<form action = "/sign" method = "post"> 
+			<p>
+			description:<input name = "description" type = "summit" value = "" / ><br/>
+			link:<textarea name ="link" rows="1" cols="100"></textarea><br/>
+			categlory:<input name = "categlory" value = {title} /><br/>
+			<em><input type = "submit" value = "add new"/></em>
+			</p>
+		</form>
+		<p>return <a href = "{homepagelink}"><em>home page</em></a></p>
+	</body>
+</html>
